@@ -1,2 +1,3 @@
 # statmachine
-just learning
+Hey peeps
+Im here to learn!
